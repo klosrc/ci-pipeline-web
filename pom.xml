@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.charlie.eclipse</groupId>
-  <artifactId>MavenWebTest</artifactId>
+  <artifactId>ci-pipeline-web</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>MavenWebTest Maven Webapp</name>
+  <name>ci-pipeline-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>MavenWebTest</finalName>
+    <finalName>ci-pipeline-web</finalName>
   </build>
 </project>
